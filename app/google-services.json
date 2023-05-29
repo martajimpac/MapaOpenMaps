@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1099189203809",
+    "project_id": "mapa-ccf7a",
+    "storage_bucket": "mapa-ccf7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099189203809:android:79c1b64759bea9e0a10b20",
+        "android_client_info": {
+          "package_name": "com.toools.mapa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrh49mn9XpQA6C_elzxM1DfljoAkpqgmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

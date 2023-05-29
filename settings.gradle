@@ -1,0 +1,4 @@
+rootProject.name = "Mapa"
+include ':app'
+include ':tooolsdialog'
+

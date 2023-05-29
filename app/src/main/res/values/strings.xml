@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Mapa</string>
+
+
+    <!--image descriptions-->
+    <string name="img_splash_ierp">IMG ierp</string>
+    <string name="img_splash_toools">IMG toools</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--  Mapa Fragment -->
+    <string name="permission_required_toast">No se puede mostrar la información puesto que el permiso de localización ha sido denegado. Habilitelo para ver la informacion de los partidos cercanos.</string>
+    <string name="titu_localizacion">Permiso de localización</string>
+    <string name="desc_localizacion">Es necesario activar el permiso de localización para poder usar la aplicación. </string>
+    <string name="ok">OK</string>
+    <string name="no">No</string>
+    <string name="loading">Cargando…</string>
+
+    <!-- Errores -->
+    <string name="sendero_error">No se ha podido cargar el sendero</string>
+    <string name="ups">Ups…</string>
+    <string name="inserta_sendero_success">El sendero se ha insertado correctamente</string>
+    <string name="inserta_sendero_error">No se ha podido insertar el sendero</string>
+    <string name="recupera_sendero_success">El sendero se ha recuperado de la base de datos correctamente</string>
+    <string name="recupera_sendero_error">No se ha podido recuperar el sendero de la base de datos</string>
+
+    <!-- url senderos -->
+    <string name="url_sendero_1">https://montanismo.isquad.es/documentos/senderos/kml_parseados/kml_236.kml</string>
+    <string name="url_sendero_2">https://montanismo.isquad.es/documentos/senderos/kml_parseados/kml_236.kml</string>
+
+
+</resources>

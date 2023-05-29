@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\drawable-mdpi_ic_stat_name.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\drawable-mdpi\\ic_stat_name.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\drawable_toools_logo_white.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\drawable\\toools_logo_white.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\drawable-mdpi_ic_notifi.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\drawable-mdpi\\ic_notifi.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\drawable-xxxhdpi_ic_stat_name.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\drawable-xxxhdpi\\ic_stat_name.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\drawable-xxhdpi_ic_off.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\drawable-xxhdpi\\ic_off.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\drawable_marker.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\drawable\\marker.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\drawable_adventurer_map.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\drawable\\adventurer_map.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\raw_misquad.json.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\raw\\misquad.json"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\drawable-xxhdpi_ic_notifi.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\drawable-xxhdpi\\ic_notifi.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\drawable-xhdpi_ic_stat_name.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\drawable-xhdpi\\ic_stat_name.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\layout_fragment_mapa.xml.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\layout\\fragment_mapa.xml"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\drawable_ic_eye_open.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\drawable\\ic_eye_open.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\drawable-hdpi_ic_toools.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\drawable-hdpi\\ic_toools.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\raw_trail_loading.json.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\raw\\trail_loading.json"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\drawable-xhdpi_ic_notifi.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\drawable-xhdpi\\ic_notifi.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\drawable-xxhdpi_ic_toools_rellena.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\drawable-xxhdpi\\ic_toools_rellena.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\drawable-xxxhdpi_ic_toools.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\drawable-xxxhdpi\\ic_toools.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\drawable_logo_toools.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\drawable\\logo_toools.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\drawable-xxhdpi_ic_toools.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\drawable-xxhdpi\\ic_toools.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\drawable-xxhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\drawable-xxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\drawable-hdpi_ic_stat_name.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\drawable-hdpi\\ic_stat_name.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\raw_loading.json.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\raw\\loading.json"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\drawable-xxhdpi_notifications_off.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\drawable-xxhdpi\\notifications_off.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\drawable-mdpi_ic_toools.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\drawable-mdpi\\ic_toools.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\drawable-xxhdpi_notifications_on.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\drawable-xxhdpi\\notifications_on.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\raw_favourite.json.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\raw\\favourite.json"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\raw_misquad2.json.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\raw\\misquad2.json"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\drawable-xxhdpi_ic_stat_name.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\drawable-xxhdpi\\ic_stat_name.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\drawable-xxhdpi_splash.jpg.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\drawable-xxhdpi\\splash.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\drawable_mapa.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\drawable\\mapa.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\drawable-xxhdpi_login.jpg.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\drawable-xxhdpi\\login.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\raw_loading1.json.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\raw\\loading1.json"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\drawable-hdpi_ic_notifi.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\drawable-hdpi\\ic_notifi.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\drawable-xhdpi_ic_toools.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\drawable-xhdpi\\ic_toools.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\drawable_ic_eye_closed.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\drawable\\ic_eye_closed.png"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\raw_rfef_mutualidad.json.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\raw\\rfef_mutualidad.json"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\raw_loading2.json.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\raw\\loading2.json"
+    },
+    {
+        "merged": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-merged_res-63:\\drawable-xxxhdpi_ic_notifi.png.flat",
+        "source": "C:\\Users\\mjimenez\\.gradle\\daemon\\8.0\\com.toools.mapa.app-main-65:\\drawable-xxxhdpi\\ic_notifi.png"
+    }
+]

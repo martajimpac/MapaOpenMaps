@@ -1,0 +1,129 @@
+plugins {
+    id 'com.android.application'
+    id 'kotlin-android'
+    id 'kotlin-kapt'
+    id 'dagger.hilt.android.plugin'
+    id 'com.google.gms.google-services'
+    id 'com.google.firebase.crashlytics'
+}
+
+
+android {
+    namespace 'com.toools.mapa'
+    compileSdkVersion 33
+    defaultConfig {
+
+        applicationId "com.toools.mapa"
+        minSdkVersion 21
+        targetSdkVersion 33
+        versionCode 20220111
+        versionName "1.4.6"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        multiDexEnabled true
+        vectorDrawables.useSupportLibrary = true
+    }
+    buildTypes {
+
+        debug {
+
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+
+        release {
+
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+
+    }
+    compileOptions {
+
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
+    }
+
+    buildFeatures{
+        viewBinding = true
+    }
+
+    packagingOptions {
+        exclude 'META-INF/main.kotlin_module'
+        exclude 'META-INF/annotation-experimental_release.kotlin_module'
+    }
+}
+
+dependencies {
+
+    //default
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+    implementation 'androidx.gridlayout:gridlayout:1.0.0'
+    implementation 'androidx.navigation:navigation-fragment:2.5.3'
+    implementation project(path: ':tooolsdialog')
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test:runner:1.4.0'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+    androidTestImplementation 'tools.fastlane:screengrab:2.1.0'
+
+    //coroutines
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.2'
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.2'
+
+    //support
+    implementation 'androidx.browser:browser:1.4.0'
+    implementation 'androidx.recyclerview:recyclerview:1.2.1'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation 'androidx.appcompat:appcompat:1.4.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.2'
+
+    //ROOM
+    implementation 'androidx.room:room-runtime:2.4.0'
+    implementation 'androidx.room:room-ktx:2.4.0'
+    kapt "androidx.room:room-compiler:2.4.0"
+
+    //dagger hilt
+    implementation "com.google.dagger:hilt-android:$hilt_version"
+    kapt "com.google.dagger:hilt-android-compiler:$hilt_version"
+
+    //multidex
+    implementation 'androidx.multidex:multidex:2.0.1'
+
+    //MAPS
+    implementation 'com.google.android.gms:play-services-maps:18.0.1'
+    implementation 'com.google.android.gms:play-services-location:19.0.0'
+
+    //firebase & fabric
+    implementation platform('com.google.firebase:firebase-bom:29.0.3')
+    implementation 'com.google.firebase:firebase-messaging-ktx'
+    implementation 'com.google.firebase:firebase-analytics-ktx'
+    implementation 'com.google.firebase:firebase-crashlytics-ktx'
+
+    //imageviews
+    implementation 'com.github.bumptech.glide:glide:4.15.1'
+    kapt 'com.github.bumptech.glide:compiler:4.12.0'
+    implementation 'jp.wasabeef:glide-transformations:4.3.0'
+    implementation 'com.github.chrisbanes:PhotoView:2.3.0'
+    implementation 'com.flaviofaria:kenburnsview:1.0.7'
+
+    //permissions
+    implementation 'com.karumi:dexter:6.2.3'
+
+    //scrolling
+    implementation 'com.github.ksoichiro:android-observablescrollview:1.6.0'
+    implementation 'com.yarolegovich:discrete-scrollview:1.5.1'
+
+    //openMaps
+    implementation 'org.osmdroid:osmdroid-android:6.1.8'
+    implementation 'com.github.MKergall:osmbonuspack:6.6.0'
+    implementation 'org.osmdroid:osmdroid-wms:6.1.8'
+
+    //alertas
+    implementation 'com.github.GrenderG:Toasty:1.5.0'
+
+    implementation 'com.jraska:falcon:2.2.0'
+
+    //dialog
+    implementation project(path: ':tooolsdialog')
+}
+
